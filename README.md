@@ -1,0 +1,2 @@
+- This repository is created for giving you the evidence, that I ain't a bad FPGA designer!
+- Note: meanwhile, only constraints files and some design screens are about to be available. But there is more yet to come:)
